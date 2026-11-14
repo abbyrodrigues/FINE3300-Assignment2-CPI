@@ -1,6 +1,6 @@
 # FINE 3300 Assignment 2 – Consumer Price Index & Inflation Calculator
 
-Student: Abigail Rodrigues  (220400172) 
+Student: Abigail Rodrigues  (220400172)  
 Course: FINE 3300 – Python for Finance Professionals  
 Term: Fall 2026
 
