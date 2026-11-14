@@ -1,6 +1,6 @@
 # FINE 3300 Assignment 2 – Consumer Price Index & Inflation Calculator
 
-Student: Abigail Rodrigues  (220400172)
+Student: Abigail Rodrigues  (220400172) 
 Course: FINE 3300 – Python for Finance Professionals  
 Term: Fall 2026
 
@@ -52,9 +52,9 @@ Enter the second date (format YYYY-MM, example: 2024-06): 2020-09
 
 Results
 
-$100.00 in 2000-09 is equivalent to $142.46 in 2020-09P
+$100.00 in 2000-09 is equivalent to $142.46 in 2020-09
 
-ercentage change:          +42.46%
+Percentage change:          +42.46%
 
 Difference in years:        20.0 years
 
