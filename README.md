@@ -65,6 +65,7 @@ CPI in 2000-09:               96.1
 CPI in 2020-09:               136.9
 
 (All money values rounded to the nearest penny)
+(Original entered price of goods or service must be positive, else user will be prompted again to insert a positive number)
 
 
 ## Data Source
