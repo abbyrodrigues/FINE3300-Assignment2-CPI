@@ -29,18 +29,18 @@ python3 cpi_calculator.py
 ![CPI Graph](cpi_graph.png)
 
 ### Short commentary on the CPI
-The blue line shows the Consumer Price Index level (2002 = 100).  
-The red line shows the year-over-year percentage change (annual inflation).  
-The black dotted line marks the base level of 100.
+The blue line on the graph shows the Consumer Price Index level (2002 = 100).  
+The red line on the graph shows the year-over-year percentage change (annual inflation).  
+The black dotted line on the graph marks the base level of 100.
 
 Some interesting points to note:
 - Prices were very low in the early 1900s.
-- Noticed there was high inflation during the 1970s and early 1980s.
+- There was high inflation during the 1970s and early 1980s.
 - Inflation stayed relatively low and stable for many years after the mid-1990s.
 - There was a clear rise in inflation after 2021.
 - The most recent data (2026) shows inflation moving closer to the Bank of Canada’s 2% target.
 
-## Sample Calculator Output
+## Example of a Calculator Output
 
 Bank of Canada Style Inflation Calculator
 
