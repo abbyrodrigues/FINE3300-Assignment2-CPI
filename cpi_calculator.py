@@ -1,6 +1,5 @@
 # FINE 3300 - Assignment 2
 # Consumer Price Index and Inflation Calculator
-# Student style code with comments
 
 import pandas as pd
 import matplotlib.pyplot as plt
