@@ -1,12 +1,12 @@
 # FINE 3300 Assignment 2 – Consumer Price Index & Inflation Calculator
 
-Student: Abigail Rodrigues  (220400172) 
+Student: Abigail Rodrigues  (220400172)  
 Course: FINE 3300 – Python for Finance Professionals  
 Term: Fall 2026
 
 ## Introduction
 My replication of this project uses monthly Consumer Price Index (CPI) data from the Bank of Canada over the past years to create a graph and an inflation calculator.  
-The calculator accepts both month and year.
+This calculator enhances the original by allowing the user to insert both year and month to calculate.
 
 ## Files in this repository
 - `cpi_calculator.py` – this is the main Python program
@@ -29,18 +29,18 @@ python3 cpi_calculator.py
 ![CPI Graph](cpi_graph.png)
 
 ### Short commentary on the CPI
-The blue line shows the Consumer Price Index level (2002 = 100).  
-The red line shows the year-over-year percentage change (annual inflation).  
-The black dotted line marks the base level of 100.
+The blue line on the graph shows the Consumer Price Index level (2002 = 100).  
+The red line on the graph shows the year-over-year percentage change (annual inflation).  
+The black dotted line on the graph marks the base level of 100.
 
-Some interesting points:
+Some interesting points to note:
 - Prices were very low in the early 1900s.
-- Noticed there was high inflation during the 1970s and early 1980s.
+- There was high inflation during the 1970s and early 1980s.
 - Inflation stayed relatively low and stable for many years after the mid-1990s.
 - There was a clear rise in inflation after 2021.
 - The most recent data (2026) shows inflation moving closer to the Bank of Canada’s 2% target.
 
-## Sample Calculator Output
+## Example of a Calculator Output
 
 Bank of Canada Style Inflation Calculator
 
@@ -59,11 +59,14 @@ Percentage change:          +42.46%
 Difference in years:        20.0 years
 
 Average annual rate:        1.79%
+
 CPI in 2000-09:               96.1
 
 CPI in 2020-09:               136.9
 
 (All money values rounded to the nearest penny)
+
+(Original entered price of goods or service must be positive, else user will be prompted again to insert a positive number)
 
 
 ## Data Source
