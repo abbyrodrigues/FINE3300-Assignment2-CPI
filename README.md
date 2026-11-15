@@ -5,7 +5,9 @@ Course: FINE 3300 – Python for Finance Professionals
 Term: Fall 2026
 
 ## Introduction
-My replication of this project uses monthly Consumer Price Index (CPI) data from the Bank of Canada over the past years to create a graph and an inflation calculator.  
+Below is my replication of the Bank of Canada Consumer Price Index (CPI) calculator. This project uses monthly CPI data from the Bank of Canada over the past years, to create a graph and an inflation calculator.
+Users will be able to decipher the cost of a basket of goods and services in certain years, along with other information such as Percent change, Number of years, Average annual rate of inflation (%) / Decline in the value of money, CPI for the first year, and the CPI for the second year.
+
 This calculator enhances the original by allowing the user to insert both year and month to calculate.
 
 ## Files in this repository
