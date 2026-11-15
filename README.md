@@ -31,16 +31,21 @@ python3 cpi_calculator.py
 ![CPI Graph](cpi_graph.png)
 
 ### Short commentary on the CPI
+
+This chart shows Canada's CPI and annual inflation rate from the year 1914 to present. It shows both a long term spike in overall prices as well as the yearly speed of those price changes. 
+
 The blue line on the graph shows the Consumer Price Index level (2002 = 100).  
 The red line on the graph shows the year-over-year percentage change (annual inflation).  
 The black dotted line on the graph marks the base level of 100.
 
 Some interesting points to note:
+- There is a heavy oscillation of CPI around the mid 1910s-mid 1920s, presumably caused by WW1 scarcity and delayed controls
+- Also plunged into a deep deflation during the Great Depression (1930s).
 - Prices were very low in the early 1900s.
-- There was high inflation during the 1970s and early 1980s.
+- There was high inflation during the 1970s and early 1980s, during the time of the Great Inflation.
 - Inflation stayed relatively low and stable for many years after the mid-1990s.
-- There was a clear rise in inflation after 2021.
-- The most recent data (2026) shows inflation moving closer to the Bank of Canada’s 2% target.
+- There was a clear rise in inflation after 2021, succeeding a brief dip at the start of COVID.
+- The most recent data now in 2026 shows that inflation is moving closer to the Bank of Canada’s 2% target.
 
 ## Example of a Calculator Output
 
